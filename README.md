@@ -22,8 +22,3 @@ Este proyecto es un Prototipo Funcional de un sistema web integral con arquitect
 * JavaScript Vanilla (Consumo de API mediante Fetch)
 * Bootstrap 5 (Diseño responsivo, minimalista y funcional)
 
-## 🚀 Instrucciones de Ejecución
-
-Sigue estos pasos para correr el proyecto en tu entorno local:
-
-
