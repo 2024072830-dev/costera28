@@ -26,7 +26,4 @@ Este proyecto es un Prototipo Funcional de un sistema web integral con arquitect
 
 Sigue estos pasos para correr el proyecto en tu entorno local:
 
-1. **Clonar el repositorio:**
-   ```bash
-   git clone <URL_DEL_REPOSITORIO>
-   cd proyecto-costera28/backend
+
